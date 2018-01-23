@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    font-size: 48px;
+    color: pink;
+    font-family: 'brush Script MT', "cursive";
+    background-image: url("https://lh3.googleusercontent.com/-5G7tNcG-zZY/Wmc9HToF7pI/AAAAAAAAS3Y/0sJbm0EVei4EBNzrBgKothkI-DTXjpSywCK8BGAs/s512/mih-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+    padding-top:100px;
+    padding-bottom:300px;
+}
+body,html{
+    margin:0;
+    padding:0;
+}
+form{
+    text-align: center;
+    padding-top:20px;
+}
+
+
+textarea,input {
+    display:inline; vertical-align: middle;
+}
+
+.file p {
+    text-align: center;
+    border: 1px solid #000;
+    width: 200px;
+    margin: 10px auto auto;
+    padding: 5px;
+}
+
+footer{
+    margin-top: 40px;
+    background: #b3bdc2;
+    padding: 12px;
+    text-align: center;
+    font-weight:bold;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
